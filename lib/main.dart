@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:http/http.dart' as http;
-import 'package:stockcard5/Clipper.dart';
+import 'package:stockcard/Clipper.dart';
 import 'shared_prefs.dart';
 import 'package:flutter/cupertino.dart';
 //import 'dart:io' show Platform;

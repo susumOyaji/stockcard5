@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.stockcard5">
+    package="com.example.stockcard">
    <application
-        android:label="stockcard5"
+        android:label="stockcard"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,4 @@
-package com.example.stockcard5;
+package com.example.stockcard;
 
 import io.flutter.embedding.android.FlutterActivity;
 

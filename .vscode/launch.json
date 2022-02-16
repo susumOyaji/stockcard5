@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "stockcard5",
+            "name": "stockcard",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "stockcard5 (profile mode)",
+            "name": "stockcard (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
